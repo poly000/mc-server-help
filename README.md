@@ -25,3 +25,7 @@
 感谢 Mojang 提供了这么棒的游戏。
 
 感谢 Airplane 提供了高性能的 [Paper](https://papermc.io/) fork。
+
+## 服务器群
+
+[413704831](https://jq.qq.com/?_wv=1027&k=mAshIWbC)
