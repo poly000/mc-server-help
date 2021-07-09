@@ -16,7 +16,16 @@
 
 ## 关于
 
-服务器目前使用 [Airplane](https://airplane.gg) 1.16.5
+服务器目前使用 [Airplane](https://airplane.gg) 1.16.5，兼容基岩版 1.16.100-210（Geyser）。
+
+本服务器建立于 2019年 8月16日，从1.15一路走来，经历过熊孩轰炸，也经历过服务器坏档。
+
+服务器端先后使用过 Spigot Paper Akarin Yatopia Airplane。
+
+服务器宣传视频有两个，[一个](https://www.bilibili.com/video/av92946043)是1.15时期拍摄的，另一个是1.16.5时期拍摄，但是画质崩坏了。
+
+
+## 致谢
 
 感谢 SakuraFrp 提供的免费端口转发服务。
 
