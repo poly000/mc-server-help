@@ -1,39 +1,27 @@
 # MC_Server_Help
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+## 常用指令
 
-#### 软件架构
-软件架构说明
+回主城： `/spawn`
 
+传送请求： `/tpa` 等
 
-#### 安装教程
+设置家： `/home`
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+回死亡点： `/back`
 
-#### 使用说明
+## 重要坐标
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+主城： -1556 63 82 （World）
 
-#### 参与贡献
+## 关于
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+服务器目前使用 [Airplane](https:/airplane.gg) 1.16.5
 
+感谢 SakuraFrp 提供的免费端口转发服务。
 
-#### 特技
+感谢各个开源插件作者的工作。
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+感谢 Mojang 提供了这么棒的游戏。
+
+感谢 Airplane 提供了高性能的 [Paper](https://papermc.io/) fork。
