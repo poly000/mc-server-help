@@ -16,7 +16,7 @@
 
 ## 关于
 
-服务器目前使用 [Airplane](https:/airplane.gg) 1.16.5
+服务器目前使用 [Airplane](https://airplane.gg) 1.16.5
 
 感谢 SakuraFrp 提供的免费端口转发服务。
 
